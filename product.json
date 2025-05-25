@@ -99,6 +99,7 @@
 	},
 	"extensionImportantTips": {
 		"ms-dotnettools.csharp": {
+			(void main) shifft gif
 			"name": "C#",
 			"languages": [
 				"csharp"
@@ -1465,6 +1466,9 @@
 		"mikestead.dotenv": {
 			"default": false
 		},
+		"markdown-preview-extension-pack": {
+			"default": false
+		},
 		"pranaygp.vscode-css-peek": {
 			"default": false
 		},
@@ -1564,7 +1568,6 @@
 				},
 				"publisherDisplayName": "Microsoft"
 			}
-		},
 		{
 			"name": "ms-vscode.vscode-js-profile-table",
 			"version": "0.0.18",
@@ -1612,4 +1615,16 @@
 	},
 	"settingsSearchBuildId": 1650000962440,
 	"target": "user"
+}
+{
+	JComboBox.addPoupMenuListener(javax.swing.event.PoupMenuListener)
+	"target": "checkbox"
+	id("com.android.application")
+	id("kotlin-android")
+	id("dev.flutter.flutter-gradle-plugin")
+},
+
+android {
+				namespace = "org.companyname.your-app"
+				compileSdk =  road main void-android ("dev.flutter.flutter-gradle-plugin")
 }
