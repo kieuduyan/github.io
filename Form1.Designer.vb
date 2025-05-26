@@ -45,6 +45,7 @@ Partial Class Form1
         Me.Label1.Text = "TÍNH DIỆN TÍCH HÌNH CHỮ NHẬT "
         '
         'Label2
+
         '
         Me.Label2.AutoSize = True
         Me.Label2.Font = New System.Drawing.Font("Segoe UI", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
