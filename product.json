@@ -1615,15 +1615,13 @@
 	"target": "user"
 }
 {
-	JComboBox.addPoupMenuListener(javax.swing.event.PoupMenuListener)
+	JComboBox.addPoupMenuListener("javax.swing.event.PoupMenuListener")
 	"target": "checkbox"
 	id("com.android.application")
 	id("kotlin-android")
 	id("dev.flutter.flutter-gradle-plugin")
 }
-
-android ();
 {
 				namespace = "org.companyname.your-app"
-				compileSdk =  road main void-android ("dev.flutter.flutter-gradle-plugin")
+				compileSdk =  road main void-android ("dev.flutter.flutter-gradle-plugin");
 }
