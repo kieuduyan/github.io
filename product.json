@@ -1616,8 +1616,8 @@
 }
 {
 	JComboBox.addPoupMenuListener("javax.swing.event.PoupMenuListener")
-	"target": "checkbox"
-	id("com.android.application")
+	"target": "checkbox" 
+	id("com.android.application");
 	id("kotlin-android")
 	id("dev.flutter.flutter-gradle-plugin")
 }
