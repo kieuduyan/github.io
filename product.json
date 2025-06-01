@@ -1620,9 +1620,10 @@
 	id("com.android.application")
 	id("kotlin-android")
 	id("dev.flutter.flutter-gradle-plugin")
-},
+}
 
-android {
+android ();
+{
 				namespace = "org.companyname.your-app"
 				compileSdk =  road main void-android ("dev.flutter.flutter-gradle-plugin")
 }
