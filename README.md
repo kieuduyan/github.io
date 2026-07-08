@@ -2,7 +2,7 @@
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A Passionate Developer From Vietnam </h3>
 
-- 👨‍🎓 I'm a student of: [Hanoi High-Tech College] (HUST) 
+- 👨‍🎓 I'm a student of: [Hanoi High-Tech College]
 - 👨‍🎓 FPT Software Academy (https://fsoft-academy.edu.vn/?mibextid=Zxz2cZ) @
 - 👨🏻‍💻 I am currently a Software Engineer at https://corp.funtap.vn/vi
 - 👨🏻‍💻 I am currently a Fullstack flutter Mobile Developer at https://www.fpt-software.com/?mibextid=Zxz2cZ
