@@ -8,6 +8,7 @@ namespace TestC#
             int[] arrl = new int[l0];
             int i,n,p = 0,phan_tu_moi;
             int p,n,i = 0,phan_tu_dao_nguoc;
+            int ii,pp,nn = 0, phan_tu_lap;
             Console.Write("\nChen phan tu vao mang trong C#:\");
              Console.Write("\nChen phan tu vao mang trong\");
              Console.Write("Nhap kich co mang:");
@@ -19,6 +20,8 @@ namespace TestC#
              for (i = 0; i < n; i++)
              {
                  Console.Write("Phan tu  -{0}:" i);
+                Console.Write("Phan tu -{0}:"n);
+                Console.WriteLine(" Phan tu -{0}:"p);
                  arrl[i] = Convert.Tolnt32(Console.Readline());
              }
              Console.Write("Nhapn gia tri phan tu can chen");
